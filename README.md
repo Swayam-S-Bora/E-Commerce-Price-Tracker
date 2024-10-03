@@ -1,1 +1,1 @@
-# E-Commerce-Price-Tracker
+# eCommerce-Price-Tracker
